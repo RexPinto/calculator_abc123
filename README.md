@@ -40,3 +40,7 @@ To run this application, you need a web browser. Simply clone the repository or 
     *   `calculate()`: Evaluates the expression in the display string using the `eval()` function and displays the result. It also includes error handling to catch invalid expressions.
 
 The `eval()` function is used for calculation. While convenient, be aware of the security implications of using `eval()` with untrusted input. For more complex or production-critical applications, consider using a safer expression parsing library.
+
+## Updates
+
+- The background color of the page has been changed to blue.
